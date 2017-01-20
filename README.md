@@ -1,18 +1,20 @@
-# vue-app
+# My vue cli setting
 
-> A Vue.js project
+> A vue cli boilerplate extended from webpack-simple template, with stylus and pug template loaders added.
 
-## Build Setup
+## Install Setup
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
+$ npm install -g vue-cli
+$ vue cli julianobailao/my-vue-cli-settings my-project
+$ cd my-project
+$ npm install
+$ npm run dev
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Packages added
+
+* stylus-loader
+* pug-loader
+
+For detailed explanation on how things work, consult the [docs for vue-cli](https://github.com/vuejs/vue-cli).

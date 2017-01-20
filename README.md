@@ -18,3 +18,7 @@ $ npm run dev
 * pug-loader
 
 For detailed explanation on how things work, consult the [docs for vue-cli](https://github.com/vuejs/vue-cli).
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.

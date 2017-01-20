@@ -6,7 +6,7 @@
 
 ``` bash
 $ npm install -g vue-cli
-$ vue cli julianobailao/my-vue-cli-settings my-project
+$ vue init julianobailao/my-vue-cli-settings my-project
 $ cd my-project
 $ npm install
 $ npm run dev

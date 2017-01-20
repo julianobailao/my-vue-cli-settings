@@ -12,8 +12,7 @@
       li: a(href="https://gitter.im/vuejs/vue" target="_blank") Gitter Chat
       li: a(href="https://twitter.com/vuejs" target="_blank") Twitter
 
-    h2
-      Ecosystem
+    h2 Ecosystem
 
     ul
       li: a(href="http://router.vuejs.org/" target="_blank") vue-router
